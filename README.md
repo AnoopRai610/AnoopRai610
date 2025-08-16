@@ -9,7 +9,7 @@
 | ------- | ----------- |
 | [SCPIScriptTest](https://github.com/AnoopRai610/SCPIScriptTest) | Lightweight Java library for developing and testing SAP CPI Groovy scripts locally. Simulates message bodies, headers, properties, attachments, and loads value mappings from a `.zip` file. |
 | [TextXMLConversion](https://github.com/AnoopRai610/TextXMLConversion) | Java package to convert text (plain/csv) to deep/structured XML and vice versa. Usable as Adapter Module, Java Mapping, or directly in Message Mapping for SAP PO and Groovy in SAP CPI. |
-| [sapcpilookup](https://github.com/AnoopRai610/sapcpilookup) | SAP CPI lookup function for initializing variables before message mapping and accessing them inside Groovy UDFs. |
+| [sapcpilookup](https://github.com/AnoopRai610/sapcpilookup) | SAP CPI lookup function for initializing variables before message mapping and accessing them inside Groovy UDFs just like Lookup Function in SAP PO. |
 | [SchemaToExcel](https://github.com/AnoopRai610/SchemaToExcel) | Tool for converting data schemas to Excel format, simplifying analysis and documentation workflows. |
 
 ## 💼 Top Skills & Technologies
